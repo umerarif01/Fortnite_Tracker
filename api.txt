@@ -1,0 +1,8 @@
+Store: https://fortnite-api.theapinetwork.com/store/get
+
+Upcoming items : https://fortnite-api.theapinetwork.com/upcoming/get
+
+Items list : https://fortnite-api.theapinetwork.com/items/list
+
+Popular Items : https://fortnite-api.theapinetwork.com/items/popular
+
